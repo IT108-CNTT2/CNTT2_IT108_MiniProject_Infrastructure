@@ -1,0 +1,4 @@
+# Do not commit runtime keys or large generated logs
+data/.env
+data/log-large-demo.log
+~$*
